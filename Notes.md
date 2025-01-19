@@ -8,18 +8,4 @@
 
 
 
-
-
- "devDependencies": {
-    "@rollup/plugin-commonjs": "^28.0.2",
-    "@rollup/plugin-node-resolve": "^16.0.0",
-    "@types/node": "^22.10.6",
-    "@types/react": "^19.0.6",
-    "@types/react-dom": "^19.0.3",
-    "eslint": "^9.18.0",
-    "eslint-config-prettier": "^10.0.1",
-    "rollup": "^4.30.1",
-    "rollup-plugin-peer-deps-external": "^2.2.4",
-    "rollup-plugin-postcss": "^4.0.2",
-    "typescript": "^5.7.3"
-  }
+- follow these https://blog.logrocket.com/how-to-build-component-library-react-typescript/#create-smartrating-component
